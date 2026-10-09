@@ -4,7 +4,7 @@ A game where you use the arrow keys or WASD keys to control a blue cube and esca
 ## 📖 Where to Play the Game
 In a browser, copy and paste this URL on the search bar: `https://happyjasondev.github.io/platformer/`
 
-## 🛠️ Features & Tech Stack
+## 🛠️ Features
 **Language:**
 - JavaScript
 
