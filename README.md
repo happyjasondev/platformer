@@ -1,5 +1,5 @@
 # Constrained (Platformer Game)
-A game where you use the arrow keys or WASD keys to control a blue cube and escape from a building.
+A game created in 2022 where you use the arrow keys or WASD keys to control a blue cube and escape from a building.
 - You have infinite lives. The game resets immediately if you fail.
 - Avoid gaps, spikes, acid, or bullets.
 - Jump on trampolines to go higher.
