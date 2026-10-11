@@ -2,7 +2,7 @@
 
 > A browser-based 2D platformer, created in 2022, engineered in JavaScript using Processing.js, featuring trigonometric calculations and object-oriented collision logic.
 
-![Game Demo](Animation.gif)
+<img src="Animation.gif" width="25%" alt="Game Demo" />
 
 ## 🕹️ Play in Browser
 
