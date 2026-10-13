@@ -3,7 +3,7 @@
 > A browser-based 2D platformer, created in 2022, engineered in JavaScript using Processing.js, featuring trigonometric calculations and object-oriented collision logic.
 
 <a href="https://happyjasondev.github.io/platformer/">
-<img src="Animation.gif" width="50%" alt="Game Demo" />
+<img src="Animation.gif" width="40%" alt="Game Demo" />
 </a>
 
 ## 🕹️ Play in Browser
